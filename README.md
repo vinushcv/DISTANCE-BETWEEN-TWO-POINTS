@@ -8,7 +8,7 @@ import numpy
 ### Step 2: 
 get the input
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula 
 ### Step 4: 
 print the output
 ### Step 5: 
